@@ -1,13 +1,13 @@
 # Flutter_task1
 Here is my mobile app created using the flutter platform in dart language. In this app there is basically an audio-video player. For creating the audio player , its respective package is installed. In this case the package installed is 'audioplayers' . Similarly for the video player the packages installed are 'video_player' and flick_video_player' . 
+
+
 Steps:-
 1) Installation of the above mentioned packages in pubspec.yaml .
     dependencies:
   flutter:
     sdk: flutter
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
+    
   cupertino_icons: ^0.1.3
   audioplayers: ^0.15.1
   video_player: ^0.10.11+2
