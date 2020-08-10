@@ -12,11 +12,17 @@ Steps:-
   audioplayers: ^0.15.1
   video_player: ^0.10.11+2
   flick_video_player: ^0.1.1
+
+
 2)Creating directories to store the respective audio, video and image. Then copying the the files to the directories.
+
+
 3) Adding the path of the audio, video and image to the assets in pubspec.yaml.
     assets:
       - images/crop.jpg
       - audio/audioplay.mp3
       - video/joy.mp4
       - assets/
+ 
+ 
  4)Proceeding with the program for the creation of the app.The methods in these packages are further used to form the dart code required. Thus helping in creating the app.     
