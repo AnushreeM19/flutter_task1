@@ -8,9 +8,12 @@ Steps:-
   flutter:
     sdk: flutter
     
-  cupertino_icons: ^0.1.3
+  cupertino_icons: ^0.1.3 
+  
   audioplayers: ^0.15.1
+  
   video_player: ^0.10.11+2
+  
   flick_video_player: ^0.1.1
 
 
