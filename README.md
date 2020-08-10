@@ -4,9 +4,12 @@ Here is my mobile app created using the flutter platform in dart language. In th
 
 Steps:-
 1) Installation of the above mentioned packages in pubspec.yaml .
+    
     dependencies:
+  
   flutter:
-    sdk: flutter
+  
+  sdk: flutter
     
   cupertino_icons: ^0.1.3 
   
